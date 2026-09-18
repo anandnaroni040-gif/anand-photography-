@@ -3,9 +3,10 @@
 A cinematic, responsive portfolio for **Anand Photography** built with plain HTML, CSS and JavaScript.
 
 ## Files
-
-- `index.html` — main portfolio
-- `404.html` — custom GitHub Pages error page
+style.css
+main.js
+anand-hero.png
+favicon.png
 - `.nojekyll` — keeps GitHub Pages in static-file mode
 - `css/style.css` — design and responsive styles
 - `js/main.js` — interactions and scroll effects
